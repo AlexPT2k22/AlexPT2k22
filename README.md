@@ -10,8 +10,6 @@
 
 ![Your GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexPT2k22&layout=compact&theme=dark)
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=AlexPT2k22&show_icons=true&theme=dark) ![Your GitHub Contribution Chart](https://github-readme-streak-stats.herokuapp.com/?user=AlexPT2k22&theme=dark)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=AlexPT2k22&show_icons=true&theme=dark) 
 
-
-
-
+![Your GitHub Contribution Chart](https://github-readme-streak-stats.herokuapp.com/?user=AlexPT2k22&theme=dark)

@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AlexPT2k22
 - 👀 I’m interested in robotics, automation, and more!
-- 🌱 I’m currently learning Js, C/C++, Python
+- 🌱 I’m currently learning Js, C/C++, Python and much more!
 
 ## Visitors:
 

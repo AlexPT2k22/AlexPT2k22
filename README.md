@@ -68,6 +68,24 @@ I'm currently open to **AI, Automation, and Full-Stack internship opportunities*
 
 ---
 
+## 📚 Other Projects
+
+### 🔹 **LibraryManagementCpp — C++ Library Management System**
+- Console-based library management app built with **Object-Oriented Programming (OOP)**  
+- Features: book registration, user management, borrowing/returning system, persistence  
+- Organized architecture using classes, encapsulation, and modular design  
+🔗 **Repo:** https://github.com/AlexPT2k22/LibraryManagementCpp
+
+---
+
+### 🔹 **ClothFactoryWebsite — Clothing Factory Website**
+- Webpage for a clothing manufacturing company  
+- Product showcase + dynamic contact section for customer inquiries  
+- Clean layout, responsive design and SEO-friendly structure  
+🔗 **Repo:** https://github.com/AlexPT2k22/ClothFactoryWebsite
+
+---
+
 ## 🎯 What I'm Working On
 - 🧠 Exploring LLMs, embeddings & automation workflows  
 - 📱 Building small SaaS products  

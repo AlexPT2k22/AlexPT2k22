@@ -6,7 +6,6 @@
 </p>
 
 <p align="center">
-  <!-- BADGES -->
   <img src="https://img.shields.io/badge/Status-Open%20to%20Work-brightgreen?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Location-Portugal-blue?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Focus-AI%20%7C%20Web%20%7C%20FullStack-purple?style=for-the-badge" />
@@ -17,22 +16,23 @@
 
 ## 🚀 About Me
 
-I'm a **Full-Stack Developer** passionate about modern web and mobile applications, AI automation, and building scalable, clean architectures.
+I'm a **Full-Stack Developer** passionate about building modern web/mobile applications, **AI-powered automation**, and scalable backend architectures.
 
-I study **Computer Engineering** in Portugal and develop real-world projects that mix performance, UX, and smart automation.
-
-I built complete systems (Web + Mobile + BackOffice), including a real project evaluated by Softinsa with feedback like:  
+I study **Computer Engineering** in Portugal and work on real-world projects that mix performance, UX, and smart automation.  
+I build complete systems from scratch — Web + Mobile + BackOffice — including a real project evaluated by Softinsa with feedback like:  
 **“I would buy it right now.”**
+
+I'm currently open to **AI, Automation, and Full-Stack internship opportunities**.
 
 ---
 
 ## 🧠 Tech Stack
 
 ### Languages & Frameworks  
-![Skills](https://skillicons.dev/icons?i=ts,js,python,java,nodejs,express,react,flutter,fastapi,html,css,tailwind&theme=dark)
+![Skills](https://skillicons.dev/icons?i=js,python,nodejs,express,react,flutter,fastapi,html,css&theme=dark)
 
 ### Databases & Cloud  
-![DB](https://skillicons.dev/icons?i=postgres,supabase&theme=dark)
+![DB](https://skillicons.dev/icons?i=postgres,supabase,mongodb&theme=dark)
 
 ### Tools  
 ![Tools](https://skillicons.dev/icons?i=git,github,linux,postman,figma,arduino&theme=dark)
@@ -42,7 +42,6 @@ I built complete systems (Web + Mobile + BackOffice), including a real project e
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=AlexPT2k22&show_icons=true&theme=tokyonight&count_private=true" />
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexPT2k22&layout=compact&theme=tokyonight" />
 </p>
 
@@ -54,31 +53,34 @@ I built complete systems (Web + Mobile + BackOffice), including a real project e
 
 ## 🛠️ Featured Projects
 
-### 🔹 **SoftSkills — Training Platform for Remote Teams**  
-- Web, Mobile and BackOffice  
-- React • Tailwind • Flutter • Node.js • PostgreSQL  
-- Dashboards, course progression, quizzes, JWT auth, file uploads  
-- Feedback from Softinsa: **“I’d buy it right now”**
+### 🔹 **SoftSkills — Training Platform for Remote Teams**
+- Web + Mobile + BackOffice  
+- React • Node.js • PostgreSQL • Flutter  
+- Dashboards, course progression, quizzes, file uploads  
+- Feedback from Softinsa: **“I’d buy it right now”**  
+🔗 https://github.com/AlexPT2k22/PINT-SoftSkills
 
-### 🔹 **AI Parking System** (in progress)  
+### 🔹 **AI Parking System** *(in progress)*
 - YOLO • FastALPR • FastOCR  
 - FastAPI + PostgreSQL  
-- Parking slot detection, events, payments, plate recognition
+- Parking slot detection, events, payments, plate recognition  
+🔗 *Repo private (coming soon)*
 
 ---
 
-## 🎯 What I'm Working On Now
-- 🧠 Exploring AI, embeddings and automations  
-- 📱 Developing mini SaaS products  
+## 🎯 What I'm Working On
+- 🧠 Exploring LLMs, embeddings & automation workflows  
+- 📱 Building small SaaS products  
 - 🇩🇪 Preparing for relocation to Germany  
-- 🔥 Finishing my Bachelor's degree  
+- 🎓 Finishing my Bachelor's degree  
 - 🤖 Learning more about Distributed Systems & ML
 
 ---
 
 ## 🌍 Contact
 
-📧 **job@alexandrefernandes.dev**
+📧 **job@alexandrefernandes.dev**  
+🔗 **https://linkedin.com/in/alexandrerodriferernandes**
 
 ---
 

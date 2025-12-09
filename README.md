@@ -96,7 +96,7 @@ I'm currently open to **AI, Automation, and Full-Stack internship opportunities*
 
 ## 🌍 Contact
 
-📧 **job@alexandrefernandes.dev**  
+📧 **alexandre@alexandrefernandes.dev**  
 🔗 **https://linkedin.com/in/alexandrerodriferernandes**
 
 ---

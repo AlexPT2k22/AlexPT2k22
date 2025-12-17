@@ -98,8 +98,3 @@ I'm currently open to **AI, Automation, and Full-Stack internship opportunities*
 
 📧 **alexandre@alexandrefernandes.dev**  
 🔗 **https://linkedin.com/in/alexandrerodriferernandes**
-
----
-
-## 🎉 Fun Fact  
-I’ve loved building systems since I was a kid — now I turn that passion into real apps, automation tools and startup ideas.

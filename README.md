@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Status-Open%20to%20Work-brightgreen?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Status-Not%20open%20to%20Work-red?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Location-Portugal-blue?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Focus-AI%20%7C%20Web%20%7C%20FullStack-purple?style=for-the-badge" />
 </p>

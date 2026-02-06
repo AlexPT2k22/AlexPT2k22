@@ -59,7 +59,7 @@ I'm currently open to **AI, Automation, and Full-Stack internship opportunities*
 - Feedback from Softinsa: **“I’d buy it right now”**  
 🔗 https://github.com/AlexPT2k22/PINT-SoftSkills
 
-### 🔹 **AI Parking System** *(in progress)*
+### 🔹 **AI Parking System**
 - YOLO • FastALPR • FastOCR  
 - FastAPI + PostgreSQL  
 - Parking slot detection, events, payments, plate recognition  

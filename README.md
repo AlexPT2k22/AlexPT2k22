@@ -63,7 +63,7 @@ I'm currently open to **AI, Automation, and Full-Stack internship opportunities*
 - YOLO • FastALPR • FastOCR  
 - FastAPI + PostgreSQL  
 - Parking slot detection, events, payments, plate recognition  
-🔗 *Repo private (coming soon)*
+🔗 https://github.com/AlexPT2k22/AI_SE2
 
 ---
 

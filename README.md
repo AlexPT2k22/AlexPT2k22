@@ -1,100 +1,168 @@
-<!-- HEADER BANNER -->
-<h1 align="center">👋 Hey, I’m <strong>Alex</strong></h1>
-
+<!-- ANIMATED HEADER -->
 <p align="center">
-  <strong>Full-Stack Developer • AI & Automation Enthusiast • Web Engineer</strong>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;AI+%26+Automation+Engineer;Final-Year+CS+Student;Open+to+Opportunities+in+Germany+%F0%9F%87%A9%F0%9F%87%AA" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Status-Not%20open%20to%20Work-red?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Location-Portugal-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Focus-AI%20%7C%20Web%20%7C%20FullStack-purple?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/📍_Location-Portugal_%E2%86%92_Germany-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🎓_Status-Final_Semester-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/💼_Focus-AI_%7C_LLMs_%7C_Full--Stack-purple?style=for-the-badge" />
 </p>
 
 ---
 
-## 🚀 About Me
+## 👋 About Me
 
-I'm a **Full-Stack Developer** passionate about building modern web/mobile applications, **AI-powered automation**, and scalable backend architectures.
+I'm **Alexandre Fernandes**, a **Computer Engineering** student in my final semester at **ESTGV, Portugal**, currently completing my thesis internship focused on **AI-powered agricultural systems**.
 
-I study **Computer Engineering** in Portugal and work on real-world projects that mix performance, UX, and smart automation.  
-I build complete systems from scratch — Web + Mobile + BackOffice — including a real project evaluated by Softinsa with feedback like:  
-**“I would buy it right now.”**
-
-I'm currently open to **AI, Automation, and Full-Stack internship opportunities**.
+I specialize in building **full-stack applications** with modern frameworks and integrating **AI/ML solutions** (LLMs, NLP, RAG) into real-world products. I'm actively preparing for relocation to **Germany 🇩🇪** and seeking opportunities in **AI, Automation, and Software Engineering**.
 
 ---
 
-## 🧠 Tech Stack
+## 🔬 Current Internship — AI Agricultural Chatbot
 
-### Languages & Frameworks  
-![Skills](https://skillicons.dev/icons?i=js,python,nodejs,express,react,flutter,fastapi,html,css&theme=dark)
+> **Company:** Geodouro - Consultoria e Topografia, Lda  
+> **Duration:** Final Semester 2025/2026
 
-### Databases & Cloud  
+### 🌾 Project: Intelligent Agricultural Chatbot for SIGP
+
+Developing an **AI-powered chatbot** integrated with **SIGP** (Sistema Integrado de Gestão de Parcelas) — a modular agricultural management platform.
+
+```mermaid
+graph LR
+    User[Farmer] -->|Question| Chatbot[AI Chatbot]
+    Chatbot -->|Query| RAG[RAG System]
+    RAG -->|Context| LLM[LLM]
+    LLM -->|Answer| Chatbot
+    Chatbot -->|Alert| User
+
+    subgraph SIGP[SIGP Platform]
+        Maps[Interactive Maps]
+        NDVI[NDVI/NDRE Indices]
+        Sensors[IoT Sensors]
+        Pests[Pest Monitoring]
+    end
+
+    RAG --> Maps
+    RAG --> Sensors
+```
+
+#### Key Features
+
+- 🤖 **Generative AI & NLP** for natural, context-aware responses
+- 📊 **Data-driven recommendations** using farm-specific data
+- 🚨 **Proactive alerts** for pests, diseases, and climate conditions
+- 🌐 **Multimodal support** (text + voice) on Web & Mobile
+- 🎯 **Target:** Reduce support response time by **70%**
+
+#### Tech Stack
+
+`FastAPI` · `LangChain` · `RAG` · `ChromaDB` · `OpenAI` · `HuggingFace` · `PostgreSQL` · `React` · `Flutter`
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages & Frameworks
+
+![Skills](https://skillicons.dev/icons?i=python,js,nodejs,express,react,nextjs,flutter,fastapi&theme=dark)
+
+### AI & Data
+
+![AI](https://skillicons.dev/icons?i=pytorch,tensorflow&theme=dark)
+`LangChain` · `LangGraph` · `OpenAI` · `HuggingFace` · `ChromaDB` · `RAG`
+
+### Databases & Infrastructure
+
 ![DB](https://skillicons.dev/icons?i=postgres,supabase,mongodb&theme=dark)
 
-### Tools  
-![Tools](https://skillicons.dev/icons?i=git,github,linux,postman,figma,arduino&theme=dark)
+### Tools
+
+![Tools](https://skillicons.dev/icons?i=git,github,linux,postman,figma,vscode&theme=dark)
+
+---
+
+## 🏆 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### 🎓 SoftSkills Training Platform
+
+**Web + Mobile + BackOffice**
+
+Full-stack training platform for remote teams with dashboards, course progression, quizzes, and file management.
+
+> _"I would buy it right now."_ — Softinsa Evaluator
+
+**Tech:** React · Node.js · PostgreSQL · Flutter
+
+[![Repo](https://img.shields.io/badge/GitHub-Repository-181717?logo=github)](https://github.com/AlexPT2k22/PINT-SoftSkills)
+
+</td>
+<td width="50%">
+
+### 🚗 AI Parking System
+
+**Computer Vision + Backend**
+
+Intelligent parking management with license plate recognition, slot detection, payments, and event logging.
+
+**Tech:** YOLO · FastALPR · FastAPI · PostgreSQL
+
+[![Repo](https://img.shields.io/badge/GitHub-Repository-181717?logo=github)](https://github.com/AlexPT2k22/AI_SE2)
+
+</td>
+</tr>
+</table>
+
+<details>
+<summary>📂 <strong>More Projects</strong> (click to expand)</summary>
+
+### 📚 LibraryManagementCpp
+
+C++ library system with OOP, user management, borrowing system, and persistence.  
+[![Repo](https://img.shields.io/badge/GitHub-Repository-181717?logo=github)](https://github.com/AlexPT2k22/LibraryManagementCpp)
+
+### 👕 ClothFactoryWebsite
+
+Responsive website for a clothing manufacturer with product showcase and contact form.  
+[![Repo](https://img.shields.io/badge/GitHub-Repository-181717?logo=github)](https://github.com/AlexPT2k22/ClothFactoryWebsite)
+
+</details>
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexPT2k22&layout=compact&theme=tokyonight" />
+  <img height="160" src="https://github-readme-stats-mauve-five-45.vercel.app/api?username=AlexPT2k22&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="160" src="https://github-readme-stats-mauve-five-45.vercel.app/api/top-langs/?username=AlexPT2k22&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img height="160" src="https://streak-stats.demolab.com?user=AlexPT2k22&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=AlexPT2k22&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-## 🛠️ Featured Projects
+## 🎯 What's Next
 
-### 🔹 **SoftSkills — Training Platform for Remote Teams**
-- Web + Mobile + BackOffice  
-- React • Node.js • PostgreSQL • Flutter  
-- Dashboards, course progression, quizzes, file uploads  
-- Feedback from Softinsa: **“I’d buy it right now”**  
-🔗 https://github.com/AlexPT2k22/PINT-SoftSkills
-
-### 🔹 **AI Parking System**
-- YOLO • FastALPR • FastOCR  
-- FastAPI + PostgreSQL  
-- Parking slot detection, events, payments, plate recognition  
-🔗 https://github.com/AlexPT2k22/AI_SE2
+- 🇩🇪 Relocating to **Germany** after graduation
+- 🧠 Deepening expertise in **LLMs, RAG, and Agentic AI**
+- 🎓 Completing **Bachelor's in Computer Engineering**
+- 🚀 Building **AI-powered SaaS products**
 
 ---
 
-## 📚 Other Projects
+## 📬 Let's Connect
 
-### 🔹 **LibraryManagementCpp — C++ Library Management System**
-- Console-based library management app built with **Object-Oriented Programming (OOP)**  
-- Features: book registration, user management, borrowing/returning system, persistence  
-- Organized architecture using classes, encapsulation, and modular design  
-🔗 **Repo:** https://github.com/AlexPT2k22/LibraryManagementCpp
-
----
-
-### 🔹 **ClothFactoryWebsite — Clothing Factory Website**
-- Webpage for a clothing manufacturing company  
-- Product showcase + dynamic contact section for customer inquiries  
-- Clean layout, responsive design and SEO-friendly structure  
-🔗 **Repo:** https://github.com/AlexPT2k22/ClothFactoryWebsite
-
----
-
-## 🎯 What I'm Working On
-- 🧠 Exploring LLMs, embeddings & automation workflows  
-- 📱 Building small SaaS products  
-- 🇩🇪 Preparing for relocation to Germany  
-- 🎓 Finishing my Bachelor's degree  
-- 🤖 Learning more about Distributed Systems & ML
-
----
-
-## 🌍 Contact
-
-📧 **alexandre@alexandrefernandes.dev**  
-🔗 **[https://linkedin.com/in/alexandrerodriferernandes](https://www.linkedin.com/in/alexandrerodrifernandes/)**
+<p align="center">
+  <a href="mailto:alexandre@alexandrefernandes.dev">
+    <img src="https://img.shields.io/badge/Email-alexandre%40alexandrefernandes.dev-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/alexandrerodrifernandes/">
+    <img src="https://img.shields.io/badge/LinkedIn-Alexandre_Fernandes-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>

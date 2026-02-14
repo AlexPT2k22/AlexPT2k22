@@ -152,7 +152,6 @@ Responsive website for a clothing manufacturer with product showcase and contact
 - 🇩🇪 Relocating to **Germany** after graduation
 - 🧠 Deepening expertise in **LLMs, RAG, and Agentic AI**
 - 🎓 Completing **Bachelor's in Computer Engineering**
-- 🚀 Building **AI-powered SaaS products**
 
 ---
 

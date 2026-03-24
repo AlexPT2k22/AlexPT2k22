@@ -1,167 +1,62 @@
-<!-- ANIMATED HEADER -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;AI+%26+Automation+Engineer;Final-Year+CS+Student;Open+to+Opportunities+in+Germany+%F0%9F%87%A9%F0%9F%87%AA" alt="Typing SVG" />
-</p>
+# Hey, I'm Alex 👋
 
-<p align="center">
-  <img src="https://img.shields.io/badge/📍_Location-Portugal_%E2%86%92_Germany-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/🎓_Status-Final_Semester-green?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/💼_Focus-AI_%7C_LLMs_%7C_Full--Stack-purple?style=for-the-badge" />
-</p>
+**Software Engineer · AI/ML & Full-Stack · Open to Remote**
+
+I build production systems end-to-end — from backend APIs and AI-powered pipelines to full-stack applications and mobile apps. Currently finishing my Computer Engineering degree in Portugal and relocating to **Hamburg, Germany in July 2026**.
 
 ---
 
-## 👋 About Me
+## 🚀 What I'm Building
 
-I'm **Alexandre Fernandes**, a **Computer Engineering** student in my final semester at **ESTGV, Portugal**, currently completing my thesis internship focused on **AI-powered agricultural systems**.
+### Hybrid RAG+SQL Chatbot @ Geodouro *(Internship — Private Repo)*
+An LLM-powered chatbot for SIGP, an agricultural management platform. Full ownership from architecture to deployment.
+- **Stack:** Python · FastAPI · LangChain · ChromaDB · Ollama · PostgreSQL · PHP bridge
+- **LLM:** Qwen2.5 7B Instruct — selected after benchmarking multiple models against domain compatibility and hardware constraints (8GB VRAM)
+- **Architecture:** Hybrid RAG + LangChain SQL Agent across 3 PostgreSQL databases, with a lightweight query router for intent classification
 
-I specialize in building **full-stack applications** with modern frameworks and integrating **AI/ML solutions** (LLMs, NLP, RAG) into real-world products. I'm actively preparing for relocation to **Germany 🇩🇪** and seeking opportunities in **AI, Automation, and Software Engineering**.
+### AI Smart Parking System → [AI_SE2](https://github.com/AlexPT2k22/AI_SE2)
+Intelligent parking management with computer vision and IoT hardware integration.
+- **Stack:** Python · PyTorch · FastAPI · PostgreSQL · React · React Native · ESP32
+- **CV:** Custom-trained CNN (ResNet) for real-time spot occupancy detection
+- **ALPR:** Fast-ALPR for automatic license plate recognition at entry/exit gates
+- **IoT:** ESP32 cameras integrated for gate automation, WebSocket real-time updates
 
----
+### Mockly — AI Interview Platform → [Repo](https://github.com/AlexPT2k22/Mockly-AI-Interviews-for-companies) · [Live](https://mockly-alpha.vercel.app)
+AI-powered mock interview platform for companies, combining voice synthesis with dynamic conversational logic.
+- **Stack:** TypeScript · Node.js · React · Supabase
+- **Voice:** ElevenLabs API for realistic interviewer voice synthesis
+- **Features:** Adaptive question flows, speech recognition (Whisper), candidate scoring, real-time feedback
 
-## 🔬 Current Internship — AI Agricultural Chatbot
-
-> **Company:** Geodouro - Consultoria e Topografia, Lda  
-> **Duration:** Final Semester 2025/2026
-
-### 🌾 Project: Intelligent Agricultural Chatbot for SIGP
-
-Developing an **AI-powered chatbot** integrated with **SIGP** (Sistema Integrado de Gestão de Parcelas) — a modular agricultural management platform.
-
-```mermaid
-graph LR
-    User[Farmer] -->|Question| Chatbot[AI Chatbot]
-    Chatbot -->|Query| RAG[RAG System]
-    RAG -->|Context| LLM[LLM]
-    LLM -->|Answer| Chatbot
-    Chatbot -->|Alert| User
-
-    subgraph SIGP[SIGP Platform]
-        Maps[Interactive Maps]
-        NDVI[NDVI/NDRE Indices]
-        Sensors[IoT Sensors]
-        Pests[Pest Monitoring]
-    end
-
-    RAG --> Maps
-    RAG --> Sensors
-```
-
-#### Key Features
-
-- 🤖 **Generative AI & NLP** for natural, context-aware responses
-- 📊 **Data-driven recommendations** using farm-specific data
-- 🚨 **Proactive alerts** for pests, diseases, and climate conditions
-- 🌐 **Multimodal support** (text + voice) on Web & Mobile
-- 🎯 **Target:** Reduce support response time by **70%**
-
-#### Tech Stack
-
-`FastAPI` · `LangChain` · `RAG` · `ChromaDB` · `OpenAI` · `HuggingFace` · `PostgreSQL` · `React` · `Flutter`
+### Enterprise Training Platform → [PINT-SoftSkills](https://github.com/AlexPT2k22/PINT-SoftSkills)
+Full platform (Web + Mobile + Backoffice) built for Softinsa, an IBM subsidiary.
+- **Stack:** React · Node.js · Express · PostgreSQL · Flutter · JWT
+- **Features:** Course management, quizzes, certificates, admin dashboards, file uploads
+- **Feedback from Softinsa:** *"I would buy it right now."*
 
 ---
 
-## 🛠️ Tech Stack
+## 🧠 Tech Stack
 
-### Languages & Frameworks
+**AI & ML** · LangChain · RAG · ChromaDB · Ollama · PyTorch · OpenCV · Fast-ALPR · Whisper
 
-![Skills](https://skillicons.dev/icons?i=python,js,nodejs,express,react,nextjs,flutter,fastapi&theme=dark)
+**Languages** · Python · TypeScript · JavaScript · SQL · C/C++
 
-### AI & Data
+**Backend** · FastAPI · Node.js · REST APIs · JWT
 
-![AI](https://skillicons.dev/icons?i=pytorch,tensorflow&theme=dark)
-`LangChain` · `LangGraph` · `OpenAI` · `HuggingFace` · `ChromaDB` · `RAG`
+**Frontend & Mobile** · React · Flutter · HTML/CSS
 
-### Databases & Infrastructure
+**Data** · PostgreSQL · Supabase · MongoDB
 
-![DB](https://skillicons.dev/icons?i=postgres,supabase,mongodb&theme=dark)
-
-### Tools
-
-![Tools](https://skillicons.dev/icons?i=git,github,linux,postman,figma,vscode&theme=dark)
+**Tools** · Docker · Git · Postman · Figma
 
 ---
 
-## 🏆 Featured Projects
+## 🌍 About Me
 
-<table>
-<tr>
-<td width="50%">
+- 📍 Portugal → Hamburg, Germany (July 2026)
+- 🎓 Computer Engineering @ ESTGV/IPV — graduating June 2026
+- 💼 Open to full-time remote roles from July 2026
+- 🇩🇪 Learning German (A1)
 
-### 🎓 SoftSkills Training Platform
-
-**Web + Mobile + BackOffice**
-
-Full-stack training platform for remote teams with dashboards, course progression, quizzes, and file management.
-
-> _"I would buy it right now."_ — Softinsa Evaluator
-
-**Tech:** React · Node.js · PostgreSQL · Flutter
-
-[![Repo](https://img.shields.io/badge/GitHub-Repository-181717?logo=github)](https://github.com/AlexPT2k22/PINT-SoftSkills)
-
-</td>
-<td width="50%">
-
-### 🚗 AI Parking System
-
-**Computer Vision + Backend**
-
-Intelligent parking management with license plate recognition, slot detection, payments, and event logging.
-
-**Tech:** YOLO · FastALPR · FastAPI · PostgreSQL
-
-[![Repo](https://img.shields.io/badge/GitHub-Repository-181717?logo=github)](https://github.com/AlexPT2k22/AI_SE2)
-
-</td>
-</tr>
-</table>
-
-<details>
-<summary>📂 <strong>More Projects</strong> (click to expand)</summary>
-
-### 📚 LibraryManagementCpp
-
-C++ library system with OOP, user management, borrowing system, and persistence.  
-[![Repo](https://img.shields.io/badge/GitHub-Repository-181717?logo=github)](https://github.com/AlexPT2k22/LibraryManagementCpp)
-
-### 👕 ClothFactoryWebsite
-
-Responsive website for a clothing manufacturer with product showcase and contact form.  
-[![Repo](https://img.shields.io/badge/GitHub-Repository-181717?logo=github)](https://github.com/AlexPT2k22/ClothFactoryWebsite)
-
-</details>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats-mauve-five-45.vercel.app/api?username=AlexPT2k22&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="160" src="https://github-readme-stats-mauve-five-45.vercel.app/api/top-langs/?username=AlexPT2k22&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=AlexPT2k22&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 🎯 What's Next
-
-- 🇩🇪 Relocating to **Germany** after graduation
-- 🧠 Deepening expertise in **LLMs, RAG, and Agentic AI**
-- 🎓 Completing **Bachelor's in Computer Engineering**
-
----
-
-## 📬 Let's Connect
-
-<p align="center">
-  <a href="mailto:alexandre@alexandrefernandes.dev">
-    <img src="https://img.shields.io/badge/Email-alexandre%40alexandrefernandes.dev-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/alexandrerodrifernandes/">
-    <img src="https://img.shields.io/badge/LinkedIn-Alexandre_Fernandes-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
+📧 alexandre@alexandrefernandes.dev
+🔗 [alexandrefernandes.dev](https://alexandrefernandes.dev) · [LinkedIn](https://linkedin.com/in/alexandrerodrifernandes)

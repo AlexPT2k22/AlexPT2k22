@@ -11,8 +11,9 @@ I build production systems end-to-end — from backend APIs and AI-powered pipel
 ### Hybrid RAG+SQL Chatbot @ Geodouro *(Internship — Private Repo)*
 An LLM-powered chatbot for SIGP, an agricultural management platform. Full ownership from architecture to deployment.
 - **Stack:** Python · FastAPI · LangChain · ChromaDB · Ollama · PostgreSQL · PHP bridge
-- **LLM:** Qwen2.5 7B Instruct — selected after benchmarking multiple models against domain compatibility and hardware constraints (8GB VRAM)
-- **Architecture:** Hybrid RAG + LangChain SQL Agent across 3 PostgreSQL databases, with a lightweight query router for intent classification
+- Built a production RAG + SQL Agent chatbot for an agricultural platform using FastAPI, LangChain, LangGraph, and ChromaDB with fully local LLMs (Ollama)
+- Improved SQL query accuracy from 53% → 97% on a 100-question benchmark through systematic debugging, sample-pool and schema-aware retrieval over 239-table PostgreSQL metadata
+- Achieved 3.2s median response time with no external API dependencies, and curated a 95-pair dataset for future fine-tuning
 
 ### AI Smart Parking System → [AI_SE2](https://github.com/AlexPT2k22/AI_SE2)
 Intelligent parking management with computer vision and IoT hardware integration.

@@ -2,13 +2,13 @@
 
 **Software Engineer · AI/ML & Full-Stack · Open to Remote**
 
-I build production systems end-to-end — from backend APIs and AI-powered pipelines to full-stack applications and mobile apps. Currently finishing my Computer Engineering degree in Portugal and relocating to **Hamburg, Germany in July 2026**.
+I build production systems end-to-end — from backend APIs and AI-powered pipelines to full-stack applications and mobile apps. Currently finishing my Computer Engineering degree in Portugal.
 
 ---
 
 ## 🚀 What I'm Building
 
-### Hybrid RAG+SQL Chatbot @ Geodouro *(Internship — Private Repo)*
+### Hybrid RAG+SQL Chatbot @ Geodouro *(Internship)*
 An LLM-powered chatbot for SIGP, an agricultural management platform. Full ownership from architecture to deployment.
 - **Stack:** Python · FastAPI · LangChain · LangGraph · ChromaDB · Ollama · PostgreSQL
 - Built a production RAG + SQL Agent chatbot using a deterministic pipeline with ReAct fallback, BM25+MMR hybrid retrieval, dynamic few-shot prompting, and schema pruning over 3 PostgreSQL databases
@@ -55,7 +55,7 @@ Full platform (Web + Mobile + Backoffice) built for Softinsa, an IBM subsidiary.
 
 ## 🌍 About Me
 
-- 📍 Portugal → Hamburg, Germany (July 2026)
+- 📍 Portugal
 - 🎓 Computer Engineering @ ESTGV/IPV — graduating June 2026
 - 💼 Open to full-time remote roles from July 2026
 - 🇩🇪 Learning German (A1)

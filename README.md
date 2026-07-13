@@ -2,7 +2,7 @@
 
 **Software Engineer · AI/ML & Full-Stack · Open to Remote**
 
-I build production systems end-to-end — from backend APIs and AI-powered pipelines to full-stack applications and mobile apps. Currently finishing my Computer Engineering degree in Portugal.
+I build production systems end-to-end — from backend APIs and AI-powered pipelines to full-stack applications and mobile apps.
 
 ---
 
@@ -55,9 +55,9 @@ Full platform (Web + Mobile + Backoffice) built for Softinsa, an IBM subsidiary.
 
 ## 🌍 About Me
 
-- 📍 Portugal
-- 🎓 Computer Engineering @ ESTGV/IPV — graduating June 2026
-- 💼 Open to full-time remote roles from July 2026
+- 📍 Germany
+- 🎓 Computer Engineering Graduate @ ESTGV/IPV
+- 💼 Open to full-time remote roles
 - 🇩🇪 Learning German (A1)
 
 📧 alexandre@alexandrefernandes.dev

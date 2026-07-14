@@ -1,8 +1,8 @@
 # Hey, I'm Alex 👋
 
-**Software Engineer · AI/ML & Full-Stack · Open to Remote**
+**Software Engineer | AI, Machine Learning & Full-Stack | Looking for remote/hybrid roles**
 
-I build production systems end-to-end — from backend APIs and AI-powered pipelines to full-stack applications and mobile apps.
+*Building production-grade intelligent systems — from local LLM pipelines (RAG) to end-to-end web & mobile applications.*
 
 ---
 
@@ -11,7 +11,7 @@ I build production systems end-to-end — from backend APIs and AI-powered pipel
 ### Hybrid RAG+SQL Chatbot @ Geodouro *(Internship)*
 An LLM-powered chatbot for SIGP, an agricultural management platform. Full ownership from architecture to deployment.
 - **Stack:** Python · FastAPI · LangChain · LangGraph · ChromaDB · Ollama · PostgreSQL
-- Built a production RAG + SQL Agent chatbot using a deterministic pipeline with ReAct fallback, BM25+MMR hybrid retrieval, dynamic few-shot prompting, and schema pruning over 3 PostgreSQL databases
+- Built a production RAG + SQL Agent chatbot using a deterministic pipeline with ReAct agent fallback, BM25+MMR hybrid retrieval, dynamic few-shot prompting, and schema pruning over 3 PostgreSQL databases
 - Improved SQL accuracy from 13% → 77% on a 30-question domain golden set (LLM-as-Judge) using a 7B local model, outperforming a 14B reference model at 10–30× lower latency
 - Achieved 5.2s median response time with no external API dependencies; system maintains stable performance under sustained 5-user concurrent load
 - Designed and deployed PostgreSQL materialized views eliminating query timeouts on aggregation-heavy analytical questions
@@ -30,7 +30,7 @@ AI-powered mock interview platform for companies, combining voice synthesis with
 - **Features:** Adaptive question flows, speech recognition (Whisper), candidate scoring, real-time feedback
 
 ### Enterprise Training Platform → [PINT-SoftSkills](https://github.com/AlexPT2k22/PINT-SoftSkills)
-Full platform (Web + Mobile + Backoffice) built for Softinsa, an IBM subsidiary.
+End-to-end platform (Web + Mobile + Backoffice) built for Softinsa, an IBM subsidiary.
 - **Stack:** React · Node.js · Express · PostgreSQL · Flutter · JWT
 - **Features:** Course management, quizzes, certificates, admin dashboards, file uploads
 - **Feedback from Softinsa:** *"I would buy it right now."*

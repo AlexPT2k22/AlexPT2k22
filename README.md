@@ -23,7 +23,7 @@ Intelligent parking management with computer vision and IoT hardware integration
 - **ALPR:** Fast-ALPR for automatic license plate recognition at entry/exit gates
 - **IoT:** ESP32 cameras integrated for gate automation, WebSocket real-time updates
 
-### Mockly — AI Interview Platform → [Repo](https://github.com/AlexPT2k22/Mockly-AI-Interviews-for-companies) · [Live](https://mockly-alpha.vercel.app)
+### Mockly — AI Interview Platform → [Repo](https://github.com/AlexPT2k22/Mockly-AI-Interviews-for-companies) · [Live](https://mockly-alpha.vercel.app/showcase)
 AI-powered mock interview platform for companies, combining voice synthesis with dynamic conversational logic.
 - **Stack:** TypeScript · Node.js · React · Supabase
 - **Voice:** ElevenLabs API for realistic interviewer voice synthesis

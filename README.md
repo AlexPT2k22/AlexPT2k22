@@ -8,7 +8,7 @@
 
 ## 🚀 What I'm Building
 
-### Hybrid RAG+SQL Chatbot @ Geodouro *(Internship)*
+### Hybrid RAG+SQL Chatbot @ Geodouro *(Internship)* [Sanitezed Repo Version](https://github.com/AlexPT2k22/llm-rag-sql-chatbot)
 An LLM-powered chatbot for SIGP, an agricultural management platform. Full ownership from architecture to deployment.
 - **Stack:** Python · FastAPI · LangChain · LangGraph · ChromaDB · Ollama · PostgreSQL
 - Built a production RAG + SQL Agent chatbot using a deterministic pipeline with ReAct agent fallback, BM25+MMR hybrid retrieval, dynamic few-shot prompting, and schema pruning over 3 PostgreSQL databases
@@ -16,7 +16,7 @@ An LLM-powered chatbot for SIGP, an agricultural management platform. Full owner
 - Achieved 5.2s median response time with no external API dependencies; system maintains stable performance under sustained 5-user concurrent load
 - Designed and deployed PostgreSQL materialized views eliminating query timeouts on aggregation-heavy analytical questions
 
-### AI Smart Parking System → [AI_SE2](https://github.com/AlexPT2k22/AI_SE2)
+### AI Smart Parking System → [Repo](https://github.com/AlexPT2k22/AI_SE2)
 Intelligent parking management with computer vision and IoT hardware integration.
 - **Stack:** Python · PyTorch · FastAPI · PostgreSQL · React · React Native · ESP32
 - **CV:** Custom-trained CNN (ResNet) for real-time spot occupancy detection
@@ -29,7 +29,7 @@ AI-powered mock interview platform for companies, combining voice synthesis with
 - **Voice:** ElevenLabs API for realistic interviewer voice synthesis
 - **Features:** Adaptive question flows, speech recognition (Whisper), candidate scoring, real-time feedback
 
-### Enterprise Training Platform → [PINT-SoftSkills](https://github.com/AlexPT2k22/PINT-SoftSkills)
+### Enterprise Training Platform → [Repo](https://github.com/AlexPT2k22/PINT-SoftSkills)
 End-to-end platform (Web + Mobile + Backoffice) built for Softinsa, an IBM subsidiary.
 - **Stack:** React · Node.js · Express · PostgreSQL · Flutter · JWT
 - **Features:** Course management, quizzes, certificates, admin dashboards, file uploads

@@ -8,6 +8,15 @@
 
 ## 🚀 What I'm Building
 
+### VoIP OTP — Authentication Microservice → [Repo](https://github.com/AlexPT2k22/voip-otp)
+OTP authentication service with SMS and voice delivery, rate limiting, and full CI/CD.
+- **Stack**: Python · FastAPI · Redis · Twilio · Docker · GitHub Actions
+- Sliding window rate limiting with Redis sorted sets (3 req/5min per phone)
+- HMAC-SHA256 OTP hashing with time-safe comparison
+- Dual channel delivery: SMS + voice calls with text-to-speech
+- Full test suite: unit + integration tests with fakeredis and pytest
+- CI/CD pipeline: lint → typecheck → test → build → push to container registry
+
 ### Hybrid RAG+SQL Chatbot @ Geodouro *(Internship)* [Sanitezed Repo Version](https://github.com/AlexPT2k22/llm-rag-sql-chatbot)
 An LLM-powered chatbot for SIGP, an agricultural management platform. Full ownership from architecture to deployment.
 - **Stack:** Python · FastAPI · LangChain · LangGraph · ChromaDB · Ollama · PostgreSQL
